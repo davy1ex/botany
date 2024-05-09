@@ -4,3 +4,5 @@
 pip install -r req.txt
 ```
 2. run python main.py
+
+# какашки
